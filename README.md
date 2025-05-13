@@ -34,8 +34,8 @@ A full-stack e-commerce web application built with **React.js** for the frontend
 ### Backend
 - Spring Boot
 - Spring Data JPA
-- Spring Security (if used for auth)
-- MySQL / H2 (for development)
+- Spring Security (
+- MySQL
 - REST APIs
 
 ---
