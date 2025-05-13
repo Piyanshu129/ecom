@@ -2,10 +2,7 @@
 
 A full-stack e-commerce web application built with **React.js** for the frontend and **Spring Boot** for the backend. This project allows users to browse products, add to cart, and perform full CRUD operations on products.
 
-## 🔗 Live Demo
-> Coming soon (deploy frontend + backend and update this section)
 
----
 
 ## 📦 Features
 
